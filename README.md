@@ -24,13 +24,13 @@ Hello there! I'm Declan, a builder passionate about fast, local-first software. 
 <h3 align="left">Knowledge  </h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/SvelteKit-000000?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-ffffff?style=for-the-badge&logo=blender&logoColor=black" />
+  <img src="https://img.shields.io/badge/SvelteKit-ffffff?style=for-the-badge&logo=svelte&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwindcss-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tauri-ffffff?style=for-the-badge&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black" />
 
 </p>
 
